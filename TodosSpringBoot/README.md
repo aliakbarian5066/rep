@@ -17,7 +17,11 @@ To build and run the sample from a fresh clone of this repo:
 ## Build and run the sample
 
 1.Open a web browser to http://localhost:8080
+
 2. create some property by create property link
+
 3. create some owner. to add the owner you should insert the property_id of the property which the owner owns in the property_id field
+
 4. you can edit/delete both properties and owners
+
 5. you can see the list of properties and list of owners
