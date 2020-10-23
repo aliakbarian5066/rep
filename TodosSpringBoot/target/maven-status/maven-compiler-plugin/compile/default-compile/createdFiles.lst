@@ -1,0 +1,13 @@
+com\todos\model\Property.class
+com\todos\controller\PropertiesController.class
+com\todos\dao\UsersRepository.class
+com\todos\service\PropertiesService.class
+com\todos\PropertiesApplication.class
+com\todos\model\Phone.class
+com\todos\model\Address.class
+com\todos\model\Owner.class
+com\todos\dao\PropertiesRepository.class
+com\todos\model\Todo.class
+com\todos\model\User.class
+com\todos\service\UsersService.class
+com\todos\types\PhoneType.class
